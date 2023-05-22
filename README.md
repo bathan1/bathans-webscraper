@@ -1,2 +1,2 @@
 # bathans-webscraper
-Trying out webscraping
+Trying out webscraping using python
